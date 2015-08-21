@@ -19,6 +19,8 @@
   <string name="local_storage_account" product="tablet">Cont local tabletă</string>
   <string name="local_storage_account" product="default">Cont local telefon</string>
   <string name="export_to_sim">Export în cartela SIM</string>
+  <string name="fail_reason_import_vcard">\'<xliff:g id="name">%s</xliff:g>\' nu a putut fi importat din cauza unei erori I/O</string>
+  <string name="contact_share_failed_toast">Nu mai mult de <xliff:g id="count">%d</xliff:g> persoane de contact pot fi adăugate</string>
   <string name="label_groups">Grup</string>
   <string name="reading_vcard_files"><xliff:g id="current_number">%1$s</xliff:g> din <xliff:g id="total_number">%2$s</xliff:g> fişiere</string>
   <string name="export_failed">Exportul a eșuat</string>
